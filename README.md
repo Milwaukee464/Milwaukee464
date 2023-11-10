@@ -2,7 +2,7 @@
 ### Hey, welcome!
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ramos-93193b254/) [![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/milwaukee464/workspace/overview/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ramos-93193b254/) [![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/milwaukee464/workspace/overview/) 
 
 
 ![Milwaukee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milwaukee464&show_icons=true&theme=tokyonight)
